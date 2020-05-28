@@ -1,1 +1,7 @@
 deep-learning-from-scratch
+.DS_Store
+*~
+*.gz
+*.pyc
+__pycache__/
+mnist.pkl
