@@ -5,3 +5,4 @@ deep-learning-from-scratch
 *.pyc
 __pycache__/
 mnist.pkl
+test.ipynb
