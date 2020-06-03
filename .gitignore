@@ -6,3 +6,4 @@ deep-learning-from-scratch
 __pycache__/
 mnist.pkl
 test.ipynb
+common
