@@ -7,3 +7,5 @@ __pycache__/
 mnist.pkl
 test.ipynb
 common
+*.png
+.ipynb_checkpoints
